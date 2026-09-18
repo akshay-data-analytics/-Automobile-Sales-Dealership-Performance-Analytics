@@ -1,0 +1,5 @@
+.
+├── Automobile_Sales_Dashboard.pbix   # Power BI desktop report file
+├── automobile_sales_cleaned.csv       # Primary cleaned dataset
+├── DAX_Measures.dax                   # Centralized DAX query script
+└── README.md                          # Project documentation
