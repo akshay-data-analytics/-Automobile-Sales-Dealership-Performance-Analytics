@@ -1,0 +1,9 @@
+Sale_ID,Date,Dealership,Car_Make,Car_Model,Fuel_Type,Unit_Cost_USD,Sale_Price_USD,Discount_USD,Final_Price_USD,Profit_USD
+SAL-10000,2024-01-01,Apex Motors - New York,Tesla,Model Y,Electric,42500.00,48875.00,1000,47875.00,5375.00
+SAL-10001,2024-01-03,Pacific Drive - Los Angeles,BMW,3 Series,Gasoline,38000.00,43700.00,500,43200.00,5200.00
+SAL-10002,2024-01-05,Summit Auto - Chicago,Toyota,RAV4,Hybrid,26000.00,29900.00,0,29900.00,3900.00
+SAL-10003,2024-01-08,Metro Cars - Houston,Ford,F-150,Gasoline,35000.00,40250.00,1500,38750.00,3750.00
+SAL-10004,2024-01-10,Vanguard Motors - Miami,Hyundai,Ioniq 5,Electric,31000.00,35650.00,500,35150.00,4150.00
+SAL-10005,2024-01-12,Apex Motors - New York,Toyota,Camry,Hybrid,22000.00,25300.00,500,24800.00,2800.00
+SAL-10006,2024-01-15,Pacific Drive - Los Angeles,Tesla,Model 3,Electric,35000.00,40250.00,0,40250.00,5250.00
+SAL-10007,2024-01-18,Summit Auto - Chicago,BMW,X5,Gasoline,55000.00,63250.00,2000,61250.00,6250.00
